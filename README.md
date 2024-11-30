@@ -37,8 +37,6 @@ Accompanied repositories for our paper [A Data Generation Perspective to the Mec
 
 ### The Internal Mechanisms of ICL
 
-[Theoretical]  [Empirical]
-
 - (**ICLR'24**) [Empirical] Linear attention is (maybe) all you need to understand transformer optimization [[Paper]](https://arxiv.org/abs/2310.01082)
 - (**Arxiv'23**) [Empirical] Uncovering mesa-optimization algorithms in Transformers[[Paper]](https://arxiv.org/abs/2309.05858)
 - (**NeurIPS'24**)[Theoretical] On Mesa-Optimization in Autoregressively Trained Transformers: Emergence and Capability[[Paper]](https://arxiv.org/abs/2405.16845)

@@ -4,6 +4,22 @@
 
 Accompanied repositories for our paper [A Data Generation Perspective to the Mechanism of In-Context Learning](https://arxiv.org/abs/2402.02212). This paper list is still incomplete. feel free to add any relevant papers! PRs are welcome 🙌📚 Thanks!
 
+- <a href="#skill-recognition"> Skill Recognition
+- <a href="#skill-learning"> Skill Learning
+- <a href="#skill-recognition-learning"> Skill Recognition & Skill Learning
+- <a href="#skill-composition"> Skill Composition (Reasoning)
+- <a href="#Knowledge"> Knowledge
+- <a href="#Mechanism Analysis"> Mechanism Analysis
+- <a href="#origin"> The origin of ICL ability
+- <a href="#probe"> Probing Analysis
+- <a href="#correction"> Self Correction
+- <a href="#empirical"> More empirical studies
+
+
+
+
+
+<div id="skill-recognition"></div>
 
 ## Skill Recognition
 The skill recognition ability selects one data generation function from the learned function class during pre-training
@@ -18,6 +34,7 @@ The skill recognition ability selects one data generation function from the lear
 - (**Arxiv'24**)[Theoretical] An Information-Theoretic Analysis of In-Context Learning[[Paper]](https://arxiv.org/abs/2401.15530)
 
 
+<div id="skill-learning"></div>
 
 ## Skill Learning
 The skill learning ability learns a new data generation function in context.
@@ -63,11 +80,14 @@ The skill learning ability learns a new data generation function in context.
 
 
 
+<div id="skill-recognition-learning"></div>
+
 ## Skill Recognition & Skill Learning
 
 - (**ICLR'24**) In-Context Learning through the Bayesian Prism[[Paper]](https://arxiv.org/abs/2306.04891)
 - (**Arxiv'23**) Schema-learning and rebinding as mechanisms of in-context learning and emergence[[Paper]](https://arxiv.org/abs/2307.01201)
 
+<div id="skill-composition"></div>
 
 ## Skill Composition (Reasoning)
 - (**Arxiv'23**) A Theory for Emergence of Complex Skills in Language Models[[Paper]](https://arxiv.org/abs/2307.15936)
@@ -99,6 +119,7 @@ The skill learning ability learns a new data generation function in context.
 - (**Human Behaviour'23**) Emergent Analogical Reasoning in Large Language Models[[Paper]](https://arxiv.org/abs/2212.09196)
 - (**NeurIPS'24**) Understanding Transformer Reasoning Capabilities via Graph Algorithms[[Paper]](https://arxiv.org/abs/2405.18512)
 
+<div id="Knowledge"></div>
 
 ## Knowledge
 - (**ICLR'24**) How do Language Models Bind Entities in Context?[[Paper]](https://arxiv.org/abs/2310.17191)
@@ -109,6 +130,7 @@ The skill learning ability learns a new data generation function in context.
 - (**ACL'23**) Analyzing Transformers in Embedding Space[[Paper]](https://arxiv.org/abs/2209.02535)
 - (**EMNLP'22**) Transformer Feed-Forward Layers Build Predictions by Promoting Concepts in the Vocabulary Space[[Paper]](https://arxiv.org/abs/2203.14680)
 
+<div id="Mechanism Analysis"></div>
 
 ## Mechanism Analysis
 
@@ -118,7 +140,7 @@ The skill learning ability learns a new data generation function in context.
 
 
 
-
+<div id="origin"></div>
 
 ### The origin of ICL ability
 
@@ -134,6 +156,7 @@ The skill learning ability learns a new data generation function in context.
 - (**ACL'23**) Understanding In-Context Learning via Supportive Pretraining Data [[Paper]](https://aclanthology.org/2023.acl-long.708/)
 - (**Arxiv'22**) ORCA: Interpreting Prompted Language Models via Locating Supporting Data Evidence in the Ocean of Pretraining Data [[Paper]](https://arxiv.org/abs/2205.12600)
 
+<div id="probe"></div>
 
 ## Probing Analysis
 - (**EMNLP'24**) Discovering Knowledge-Critical Subnetworks in Pretrained Language Models[[Paper]](https://aclanthology.org/2024.emnlp-main.376/)
@@ -142,12 +165,17 @@ The skill learning ability learns a new data generation function in context.
 - (**ICML'24**) Patchscopes: A Unifying Framework for Inspecting Hidden Representations of Language Models [[Paper]](https://arxiv.org/abs/2401.06102)
 - (**EMNLP'24**) Backward Lens: Projecting Language Model Gradients into the Vocabulary Space [[Paper]](https://aclanthology.org/2024.emnlp-main.142/)
 
+
+<div id="correction"></div>
+
 ### Self Correction
 - (**ICLR'24**) Large Language Models Cannot Self-Correct Reasoning Yet[[Paper]](https://arxiv.org/abs/2310.01798)
 - (**Arxiv'22**) Language models (mostly) know what they know[[Paper]](https://arxiv.org/abs/2207.05221)
 - (**Arxiv'24**) On the Intrinsic Self-Correction Capability of LLMs: Uncertainty and Latent Concept [[Paper]](https://arxiv.org/abs/2406.02378)
 - (**EMNLP'24**) Intrinsic Self-correction for Enhanced Morality: An Analysis of Internal Mechanisms and the Superficial Hypothesis[[Paper]](https://aclanthology.org/2024.emnlp-main.918/)
 
+
+<div id="empirical"></div>
 
 ### More empirical studies
 - (**ICML'23**) Large language models can be easily distracted by irrelevant context[[Paper]](https://arxiv.org/abs/2302.00093)

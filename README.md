@@ -2,7 +2,7 @@
 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
 
-Accompanied repositories for our paper [A Data Generation Perspective to the Mechanism of In-Context Learning](https://arxiv.org/abs/2402.02212). This paper list is still incomplete. feel free to add any relevant papers! PRs are welcome 🙌📚 Thanks!
+Accompanied repositories for our paper [A Survey to Recent Progress Towards Understanding In-Context Learning](https://arxiv.org/abs/2402.02212). This paper list is still incomplete. feel free to add any relevant papers! PRs are welcome 🙌📚 Thanks!
 
 - <a href="#skill-recognition"> Skill Recognition
 - <a href="#skill-learning"> Skill Learning
